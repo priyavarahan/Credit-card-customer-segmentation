@@ -1,4 +1,4 @@
-# BANK CREDIT CARD CUSTOMER SEGMENTATION 🤖
+# CREDIT CARD CUSTOMER SEGMENTATION 
 
 
 This repository contains a Jupyter Notebook for performing customer segmentation on a bank's customer data. The notebook utilizes various data analysis and machine learning techniques to identify distinct customer segments.
